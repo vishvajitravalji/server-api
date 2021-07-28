@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "id": "a8ad514f-1b53-4895-a49f-2fe0cfe99c69",
+      "name": "Vishvjitsinh Ravalji",
+      "email": "vishvajitravalji@gmail.com"
+    },
+    {
+      "id": "7640451a-3b54-4df2-8027-8f82374b5416",
+      "name": "meet patel",
+      "email": "meet@gmail.com"
+    },
+    {
+      "id": "820dg5ef7-ddf4-44f1-9e3a-3722442f16a9",
+      "name": "viskash",
+      "email": "vk.patel@yahoo.com"
+    },
+    {
+      "id": "35f99ff-f002-41e7-8c69-3424a45c5913",
+      "name": "kevin",
+      "email": "kevin@gmail.com"
+    },
+    {
+      "id": "7646721a-3b54-4df2-8027-8f82374b5416",
+      "name": "vish",
+      "email": "meet@gmail.com"
+    },
+    {
+      "id": "820g4ef7-ddf4-44f1-9e3a-3722442f16a9",
+      "name": "viskash",
+      "email": "vk.patel@yahoo.com"
+    },
+    {
+      "id": "35f234ff-f002-41e7-8c69-3424a45c5913",
+      "name": "malhar",
+      "email": "malhar@gmail.com"
+    },
+    {
+      "id": "3201b675-1b56-4db7-8122-86aef344c44e",
+      "name": "john",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "845d8ef7-ddf4-44f1-9e3a-3722442f16a9",
+      "name": "phillip",
+      "email": "ph.patel@yahoo.com"
+    },
+    {
+      "id": "32f454ff-f002-41e7-8c69-3424a45c5913",
+      "name": "andre",
+      "email": "andre@gmail.com"
+    },
+    {
+      "id": "3290b675-1b56-4db7-8122-86aef344c44e",
+      "name": "johny",
+      "email": "johny@gmail.com"
+    },
+    {
+      "id": "1844be11-9872-446e-91cf-a950010f6f5b",
+      "name": "kiratn",
+      "email": "kirtan711@icloud.com"
+    }
+  ]
+}
